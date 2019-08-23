@@ -10,8 +10,9 @@ In these lessons, we'll cover:
 * Implementing class with inherited methods from another class that also has its
   own unique methods
 * Refactoring "code smells" into multiple, non-repetitive methods
-* Using the `super` keyword to inherit from and augment methods in the parent class
+* Using the `super` keyword to inherit from and augment methods in the parent
+  class
 
-In this section, we'll explain how we can leverage the power to define basic
-classes with large reusability and smaller subclasses for more fine-grained,
-detailed behaviors.
+In this section, we'll explain how we can leverage the power of Ruby to define
+basic classes with large reusability and smaller subclasses for more
+fine-grained, detailed behaviors.
