@@ -6,7 +6,8 @@ traits from a parent. In Ruby, a class can inherit the behaviors of another
 class, referred to as the _superclass_.
 
 In these lessons, we'll cover:
-* What inheritance is in object oriented Ruby
+
+* What inheritance is in object-oriented Ruby
 * Implementing class with inherited methods from another class that also has its
   own unique methods
 * Refactoring "code smells" into multiple, non-repetitive methods
