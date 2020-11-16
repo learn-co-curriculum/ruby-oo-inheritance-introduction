@@ -1,6 +1,6 @@
-# Introduction to Object Inheritance in Ruby
+# Introduction to Object Inheritance
 
-The concept of inheritance in Ruby works similarly to the real world--A prince
+The concept of inheritance in Ruby works similarly to the real world &mdash; A prince
 can inherit a kingdom and everything within it, a baby can inherit genetic
 traits from a parent. In Ruby, a class can inherit the behaviors of another
 class, referred to as the _superclass_.
